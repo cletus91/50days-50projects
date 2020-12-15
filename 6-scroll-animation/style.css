@@ -19,6 +19,10 @@ h1 {
 	margin: 10px;
 }
 
+h2 {
+	font-size: 40px;
+}
+
 .box {
 	background-color: steelblue;
 	color: #fff;
